@@ -21,8 +21,5 @@
   },
   "engines": {
     "node": "0.10.x"
-  },
-  "scripts": {
-    "start": "env HUBOT_SLACK_TOKEN=xoxb-917711239106-1599757858258-URHtalRk0XcCjlb2vs348m86 bin/hubot"
   }
 }
